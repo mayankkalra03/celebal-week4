@@ -21,8 +21,8 @@ Follow these instructions to get your copy of the project up and running on your
 Clone the repository to your local machine using the following command:
 
 ```sh
-git clone https://github.com/mayankkalra03/celebal-week3.git
-cd celebal-week3
+git clone https://github.com/mayankkalra03/celebal-week4.git
+cd celebal-week4
 ```
 
 ### 2. Install dependencies
